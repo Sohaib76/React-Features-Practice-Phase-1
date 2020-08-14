@@ -1,0 +1,14 @@
+button{
+    font-size: 30px;
+    height: 80px;
+    width: 80px;
+    margin: 20px;
+}
+
+div{
+    background-color: aliceblue;
+}
+
+span{
+    font-size: 30px;
+}
